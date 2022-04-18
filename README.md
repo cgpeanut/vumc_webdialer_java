@@ -1,5 +1,4 @@
-# webdialer-java-sample
-
+# vumc_webdialer_java
 ## Overview
 
 Sample Java program demonstrating usage of the Cisco WebDialer SOAP API and Axis2 to perform a `<makeCallSoap>` call, wait 5 seconds, then end the call with `<endCallSoap>`.
