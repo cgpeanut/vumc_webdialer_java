@@ -9,11 +9,11 @@
         "projectName": "webdialer-java-sample",
         "jdkPath": "${env:JAVA_HOME}/bin",
         "env": {
-            "CUCM": "CHANGEME",
-            "PROXY_USER": "CHANGEME",
-            "PASSWORD": "CHANGEME",
-            "USER_NAME": "CHANGEME",
-            "DEVICE_NAME": "CHANGEME",
+            "CUCM": "10.10.20.31",
+            "PROXY_USER": "admin",
+            "PASSWORD": "C!sc0DevNet",
+            "USER_NAME": "agent1",
+            "DEVICE_NAME": "SEP6001FFFF0000",
             "CALL_FROM": "CHANGEME",
             "CALL_TO": "CHANGEME"
         }
